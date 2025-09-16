@@ -14,6 +14,7 @@ __pycache__/
 
 ### Office ###
 *.xlsx
+!example.xlsx
 
 ### SYSTEM ###
 .DS_Store
