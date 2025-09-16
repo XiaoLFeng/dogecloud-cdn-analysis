@@ -1,0 +1,24 @@
+### python ###
+__pycache__/
+*.py[cod]
+*.so
+.conda/
+
+### AI ###
+.claude/
+
+
+### TarGz ###
+*.gz            
+*.tar.gz
+
+### Office ###
+*.xlsx
+
+### SYSTEM ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
